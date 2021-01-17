@@ -140,4 +140,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.idea
+at_alsv_pro/.idea/SearchImage.iml
+at_alsv_pro/.idea/misc.xml
+at_alsv_pro/.idea/workspace.xml
+at_alsv_pro/.idea/vcs.xml
+at_alsv_pro/.idea
